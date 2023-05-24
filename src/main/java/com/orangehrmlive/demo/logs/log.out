@@ -1,0 +1,92 @@
+2023-05-24 00:05:315 INFO  DashboardPage :33 - Enter user name
+2023-05-24 00:05:449 INFO  DashboardPage :39 - Enter Password[[ChromeDriver: chrome on WINDOWS (55c6ca2ba874be60250af6980a982a6b)] -> xpath: //input[@placeholder='Password']]
+2023-05-24 00:05:550 INFO  DashboardPage :45 - Click on login page[[ChromeDriver: chrome on WINDOWS (55c6ca2ba874be60250af6980a982a6b)] -> xpath: //button[normalize-space()='Login']]
+2023-05-24 00:05:616 INFO  DashboardPage :25 - Get Dashboard text[[ChromeDriver: chrome on WINDOWS (55c6ca2ba874be60250af6980a982a6b)] -> xpath: //h6[normalize-space()='Dashboard']]
+2023-05-24 00:05:106 INFO  DashboardPage :51 - Verify the company logo is display
+2023-05-24 00:05:17 INFO  DashboardPage :33 - Enter user name
+2023-05-24 00:05:158 INFO  DashboardPage :39 - Enter Password[[ChromeDriver: chrome on WINDOWS (629ad2901ea779abf1a0fd17ecf49d46)] -> xpath: //input[@placeholder='Password']]
+2023-05-24 00:05:271 INFO  DashboardPage :45 - Click on login page[[ChromeDriver: chrome on WINDOWS (629ad2901ea779abf1a0fd17ecf49d46)] -> xpath: //button[normalize-space()='Login']]
+2023-05-24 00:05:308 INFO  DashboardPage :31 - Click on Profile
+2023-05-24 00:05:374 INFO  DashboardPage :37 - Mouse hover and click on Logout
+2023-05-24 00:05:979 INFO  DashboardPage :57 - Verify the Login Panel
+2023-05-24 00:05:227 INFO  DashboardPage :33 - Enter user name
+2023-05-24 00:05:358 INFO  DashboardPage :39 - Enter Password[[ChromeDriver: chrome on WINDOWS (e554640373ba31f3d56b183f3e86a601)] -> xpath: //input[@placeholder='Password']]
+2023-05-24 00:05:464 INFO  DashboardPage :45 - Click on login page[[ChromeDriver: chrome on WINDOWS (e554640373ba31f3d56b183f3e86a601)] -> xpath: //button[normalize-space()='Login']]
+2023-05-24 00:05:67 INFO  AdminPage :26 - Click on add button[[ChromeDriver: chrome on WINDOWS (e554640373ba31f3d56b183f3e86a601)] -> xpath: //button[normalize-space()='Add']]
+2023-05-24 00:05:658 INFO  AdminPage :32 - Get Add user textAdd User
+2023-05-24 00:05:696 INFO  AddUserPage :37 - Select user role
+2023-05-24 00:05:830 INFO  AddUserPage :45 - Enter Employee Name [[ChromeDriver: chrome on WINDOWS (e554640373ba31f3d56b183f3e86a601)] -> xpath: //input[@placeholder='Type for hints...']]
+2023-05-24 00:05:986 INFO  AddUserPage :78 - Enter user Name[[ChromeDriver: chrome on WINDOWS (e554640373ba31f3d56b183f3e86a601)] -> xpath: //div[@class='oxd-form-row']//div[@class='oxd-grid-2 orangehrm-full-width-grid']//div[@class='oxd-grid-item oxd-grid-item--gutters']//div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2023-05-24 00:05:88 INFO  AddUserPage :52 - Select User Status
+2023-05-24 00:05:210 INFO  AddUserPage :60 - Enter Password[[ChromeDriver: chrome on WINDOWS (e554640373ba31f3d56b183f3e86a601)] -> xpath: //div[@class='oxd-grid-item oxd-grid-item--gutters user-password-cell']//div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@type='password']]
+2023-05-24 00:05:289 INFO  AddUserPage :66 - Enter Confirm Password[[ChromeDriver: chrome on WINDOWS (e554640373ba31f3d56b183f3e86a601)] -> xpath: //div[@class='oxd-grid-item oxd-grid-item--gutters']//div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@type='password']]
+2023-05-24 00:05:395 INFO  AddUserPage :72 - Click on Save Button[[ChromeDriver: chrome on WINDOWS (e554640373ba31f3d56b183f3e86a601)] -> xpath: //button[normalize-space()='Save']]
+2023-05-24 00:05:437 INFO  AddUserPage :84 - Get successful text
+2023-05-24 00:05:288 INFO  DashboardPage :33 - Enter user name
+2023-05-24 00:05:426 INFO  DashboardPage :39 - Enter Password[[ChromeDriver: chrome on WINDOWS (3c9a58afc2124325f501e3a0f79620b7)] -> xpath: //input[@placeholder='Password']]
+2023-05-24 00:05:533 INFO  DashboardPage :45 - Click on login page[[ChromeDriver: chrome on WINDOWS (3c9a58afc2124325f501e3a0f79620b7)] -> xpath: //button[normalize-space()='Login']]
+2023-05-24 00:05:29 INFO  AdminPage :26 - Click on add button[[ChromeDriver: chrome on WINDOWS (3c9a58afc2124325f501e3a0f79620b7)] -> xpath: //button[normalize-space()='Add']]
+2023-05-24 00:05:461 INFO  AddUserPage :37 - Select user role
+2023-05-24 00:05:643 INFO  AddUserPage :45 - Enter Employee Name [[ChromeDriver: chrome on WINDOWS (3c9a58afc2124325f501e3a0f79620b7)] -> xpath: //input[@placeholder='Type for hints...']]
+2023-05-24 00:05:872 INFO  AddUserPage :52 - Select User Status
+2023-05-24 00:05:980 INFO  AddUserPage :91 - Verify User Display[[ChromeDriver: chrome on WINDOWS (3c9a58afc2124325f501e3a0f79620b7)] -> xpath: //input[@placeholder='Type for hints...']]
+2023-05-24 00:05:774 INFO  DashboardPage :33 - Enter user name
+2023-05-24 00:05:869 INFO  DashboardPage :39 - Enter Password[[ChromeDriver: chrome on WINDOWS (31a01309a5010fd6d0b05502120c76bb)] -> xpath: //input[@placeholder='Password']]
+2023-05-24 00:05:976 INFO  DashboardPage :45 - Click on login page[[ChromeDriver: chrome on WINDOWS (31a01309a5010fd6d0b05502120c76bb)] -> xpath: //button[normalize-space()='Login']]
+2023-05-24 00:05:586 INFO  AddUserPage :37 - Select user role
+2023-05-24 00:05:779 INFO  DashboardPage :56 - Enter employee Name[[ChromeDriver: chrome on WINDOWS (31a01309a5010fd6d0b05502120c76bb)] -> xpath: //input[@placeholder='Type for hints...']]
+2023-05-24 00:05:979 INFO  DashboardPage :72 - Click on search Button
+2023-05-24 00:05:66 INFO  DashboardPage :78 - Verify the user is display in List
+2023-05-24 00:05:64 INFO  DashboardPage :33 - Enter user name
+2023-05-24 00:05:178 INFO  DashboardPage :39 - Enter Password[[ChromeDriver: chrome on WINDOWS (a91b5821f3b9512fa56fede735b6e75b)] -> xpath: //input[@placeholder='Password']]
+2023-05-24 00:05:304 INFO  DashboardPage :45 - Click on login page[[ChromeDriver: chrome on WINDOWS (a91b5821f3b9512fa56fede735b6e75b)] -> xpath: //button[normalize-space()='Login']]
+2023-05-24 00:05:473 INFO  DashboardPage :56 - Enter employee Name[[ChromeDriver: chrome on WINDOWS (a91b5821f3b9512fa56fede735b6e75b)] -> xpath: //input[@placeholder='Type for hints...']]
+2023-05-24 00:05:701 INFO  AddUserPage :37 - Select user role
+2023-05-24 00:05:825 INFO  DashboardPage :64 - Select user Status
+2023-05-24 00:05:04 INFO  DashboardPage :72 - Click on search Button
+2023-05-24 00:05:101 INFO  DashboardPage :109 - Get NoRecord found text 
+2023-05-24 00:05:336 INFO  LoginPage :36 - Enter User Name
+2023-05-24 00:05:473 INFO  LoginPage :42 - Enter Password
+2023-05-24 00:05:568 INFO  LoginPage :48 - Click on login tab
+2023-05-24 00:05:642 INFO  DashboardPage :29 - Get dashboard text
+2023-05-24 00:05:757 INFO  LoginPage :36 - Enter User Name
+2023-05-24 00:05:881 INFO  LoginPage :42 - Enter Password
+2023-05-24 00:05:970 INFO  LoginPage :48 - Click on login tab
+2023-05-24 00:05:809 INFO  DashboardPage :35 - Click on profile
+2023-05-24 00:05:869 INFO  DashboardPage :41 - Click on logout tab
+2023-05-24 00:05:777 INFO  LoginPage :36 - Enter User Name
+2023-05-24 00:05:911 INFO  LoginPage :42 - Enter Password
+2023-05-24 00:05:09 INFO  LoginPage :48 - Click on login tab
+2023-05-24 00:05:868 INFO  HomePage :26 - Click on admin tab
+2023-05-24 00:05:379 INFO  HomePage :32 - Get System User text 
+2023-05-24 00:05:437 INFO  AdminPage :28 - Click on add button
+2023-05-24 00:05:795 INFO  AdminPage :34 - Get add user text :
+2023-05-24 00:05:973 INFO  AddUserPage :44 - Enter employee name :
+2023-05-24 00:05:199 INFO  AddUserPage :76 - Enter User name
+2023-05-24 00:05:455 INFO  AddUserPage :58 - Enter Password :
+2023-05-24 00:05:547 INFO  AddUserPage :64 - Enter confirm password
+2023-05-24 00:05:656 INFO  AddUserPage :70 - Click on save button
+2023-05-24 00:05:271 INFO  LoginPage :36 - Enter User Name
+2023-05-24 00:05:359 INFO  LoginPage :42 - Enter Password
+2023-05-24 00:05:468 INFO  LoginPage :48 - Click on login tab
+2023-05-24 00:05:534 INFO  HomePage :26 - Click on admin tab
+2023-05-24 00:05:653 INFO  HomePage :32 - Get System User text 
+2023-05-24 00:05:694 INFO  AdminPage :28 - Click on add button
+2023-05-24 00:05:204 INFO  AddUserPage :44 - Enter employee name :
+2023-05-24 00:05:588 INFO  AddUserPage :88 - Verify user displayed.
+2023-05-24 00:05:816 INFO  LoginPage :36 - Enter User Name
+2023-05-24 00:05:938 INFO  LoginPage :42 - Enter Password
+2023-05-24 00:05:16 INFO  LoginPage :48 - Click on login tab
+2023-05-24 00:05:78 INFO  HomePage :26 - Click on admin tab
+2023-05-24 00:05:242 INFO  HomePage :32 - Get System User text 
+2023-05-24 00:05:443 INFO  ViewSystemUsersPage :55 - Enter employee name
+2023-05-24 00:05:996 INFO  ViewSystemUsersPage :85 - Click on delete button
+2023-05-24 00:05:57 INFO  ViewSystemUsersPage :91 - Click on ok button
+2023-05-24 00:05:114 INFO  ViewSystemUsersPage :97 - Click on success text
+2023-05-24 00:05:699 INFO  LoginPage :36 - Enter User Name
+2023-05-24 00:05:808 INFO  LoginPage :42 - Enter Password
+2023-05-24 00:05:914 INFO  LoginPage :48 - Click on login tab
+2023-05-24 00:05:795 INFO  HomePage :26 - Click on admin tab
+2023-05-24 00:05:399 INFO  HomePage :32 - Get System User text 
+2023-05-24 00:05:443 INFO  ViewSystemUsersPage :55 - Enter employee name
+2023-05-24 00:05:977 INFO  ViewSystemUsersPage :104 - CLick on no record found text
